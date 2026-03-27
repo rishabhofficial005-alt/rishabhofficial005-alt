@@ -1,7 +1,12 @@
-# 💫 About Me:
-Computer Science undergraduate with a strong foundation in Data Structures, Algorithms, and Machine Learning. Passionate about building scalable, real-world solutions through clean and efficient code.
+<h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
+<h3 align="center">Aspiring Software Engineer | Machine Learning Enthusiast</h3>
 
-Experienced in developing end-to-end ML systems with practical deployment, including REST APIs and interactive dashboards. Proficient in Python and backend development, with a focus on performance optimization and problem-solving.
+---
+
+# 💫 About Me:
+Computer Science undergraduate with a focus on Machine Learning and backend development. Passionate about building scalable, real-world solutions through clean and efficient code.
+
+Experienced in developing end-to-end ML systems with practical deployment, including REST APIs and interactive dashboards. Proficient in Python, with a focus on performance optimization and problem-solving.
 
 Actively seeking opportunities to apply my skills in software engineering and machine learning to solve impactful problems.
 
@@ -41,11 +46,11 @@ Actively seeking opportunities to apply my skills in software engineering and ma
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rishabhofficial005-alt&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rishabhofficial005-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 
-![](https://nirzak-streak-stats.vercel.app/?user=rishabhofficial005-alt&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhofficial005-alt&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhofficial005-alt&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhofficial005-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
